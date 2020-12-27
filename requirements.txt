@@ -1,0 +1,6 @@
+sys==Python BuiltIn
+torchvision==0.8.1+cu101
+torch==1.7.0+cu101
+numpy==1.19.4
+matplotlib==3.2.2
+ipython==5.5.0
